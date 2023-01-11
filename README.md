@@ -1,2 +1,2 @@
-# Experimentation-on-Online-Retail-Data-using-two-clustering-Algorithms-to-discover-distinct-groups.-
-Experimentation on Online Retail Data using two clustering Algorithms to discover distinct groups. 
+# Experimentation on Online Retail Data using two clustering Algorithms to discover distinct groups. 
+The goal of this research was to use clustering analysis to identify distinct groups of customers in an online retail database, with the purpose of creating targeted marketing campaigns. To achieve this, I applied two different clustering algorithms and compared their results in order to make the best decision. The scikit-learn implementation of K-means and DBSCAN was used to determine the optimal number of clusters through the elbow method. Additionally, I utilized principal component analysis (PCA) to reduce the dimensionality of the data, allowing for the visualization of the clustering results on higher dimensional datasets.
